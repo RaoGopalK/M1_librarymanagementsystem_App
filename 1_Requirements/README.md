@@ -1,35 +1,32 @@
 # Description
 * Description about my project
-* My project is about Basic Unit Converter
-* This project mainly focuses on convertering some conversions such as Length, Weight, Mass, Temparature etc
+* My project is about Bank Acoount System
+* This project mainly focuses on Creating a Menu in the main function and create different functions for the Menu, which will be called using switch case statements
 
 # Requirements
 
 ## High Level Requirements
 * Feautres of my project
-* Knowledge of all conversion quantities and their units.
+* account()- This function is used to create a new account.
+* transfermoney()- This function is used to transfer money to the account
+* checkbalance()- This function is used to check the balance in the account.
+* login()- This function is used to login into the account.
 
 ## Low Level Requirements
 * How each feautre is implimented:
 * Each feature will be converted into the required feautre using C language code.
 * Linking High level to low level:
-* With the C language we will be assigning names to each quantities and assigning their values.
+* With the C language we will be assigning names to each feautre and assigning their code.
 
 ## SWOT Analysis
 # Strengths:
-* Able to convert quantities from one to other.
-* Better Understanding of the units
+* 
 
 # Weakness:
-* Might be difficult for understanding the concepts of units.
-* Creates confusin when not performed in the right manner.
-
+* 
 # Oppurtunities:
-* This app will be handy for students.
-* This app will help for people who are travelling in foregin countries.
-
+* 
 # Thrreats:
-* May lead to errors when source code is altered.
-* Need to be very precise while intialising the basic values for the quantities.
+* 
 
 ## 4W's & 1H
