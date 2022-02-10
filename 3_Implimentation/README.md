@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Implimentation
 * C programming
 # Examples
@@ -8,3 +9,6 @@
  * Structures
  * Compilation and Steps
  * GitHub worflow for Build
+=======
+
+>>>>>>> a1622d91b84b3cfcec92cc2046971ceaf1d1e649
