@@ -1,5 +1,5 @@
 # Description
-* Description about my project
+* This project is about an App -
 
 # Requirements
 
