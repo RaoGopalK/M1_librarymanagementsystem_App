@@ -1,33 +1,31 @@
 # Description
-<<<<<<< HEAD
-* This project is about an App -
-=======
+
+* This project is about an App named librarymanagementsystem *
 * Description about my project
-* My project is about Bank Acoount System
-* This project mainly focuses on Creating a Menu in the main function and create different functions for the Menu, which will be called using switch case statements
->>>>>>> a1622d91b84b3cfcec92cc2046971ceaf1d1e649
+* My project is about librarysystemmanagement application
+
+# Objective
+* Creating a library system which can manage all library options efficiently.
+* Storing library items in a particular order.
+* Features for adding, deleting, searching and updating library.
 
 # Requirements
 
 ## High Level Requirements
-* Feautres of my project
-* account()- This function is used to create a new account.
-* transfermoney()- This function is used to transfer money to the account
-* checkbalance()- This function is used to check the balance in the account.
-* login()- This function is used to login into the account.
+* 
 
 ## Low Level Requirements
-* How each feautre is implimented:
-* Each feature will be converted into the required feautre using C language code.
-* Linking High level to low level:
-* With the C language we will be assigning names to each feautre and assigning their code.
+* 
 
 ## SWOT Analysis
 # Strengths:
-* 
+* Easy to use
+* Secure and Reliable
+* Increased the engagement of Library
 
 # Weakness:
-* 
+* No proper Anti Virus security
+* Complex code
 # Oppurtunities:
 * 
 # Thrreats:
